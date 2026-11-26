@@ -1,6 +1,6 @@
 # Me-mento iPad 필기 프로토타입 구현 계획서
 
-문서 v1.1 · 2026-11-26 · 제품 V0(M0~M2)
+현재 작업본 · 제품 V0(M0~M2)
 > **구현 에이전트:** 작업별로 superpowers:subagent-driven-development 또는 superpowers:executing-plans를 사용한다. 각 단계의 체크박스에 실행 결과를 기록한다.
 
 **목표:** 실제 iPad에서 한 페이지를 쓰고 지운 뒤 앱을 종료·재실행하여 마지막 저장 결과에서 이어 쓴다.

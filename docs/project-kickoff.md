@@ -1,6 +1,6 @@
 # Me-mento 프로젝트 출범 계획서
 
-문서 v1.1 · 2026-11-26 · 제품 V0~V1 개발 및 배포 판정
+현재 작업본 · 제품 V0~V1 개발 및 배포 판정
 
 [제품 기획서](product-plan.md) · [구현 명세서](implementation-spec.md) · [문서 목록과 개정 이력](README.md) · [개발 로드맵](development-roadmap.md)
 

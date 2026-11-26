@@ -1,6 +1,6 @@
 # Me-mento 제품 기획서
 
-문서 v1.1 · 2026-11-26 · 제품 V1 및 정보처리기사 공유 파일럿
+현재 작업본 · 제품 V1 및 정보처리기사 공유 파일럿
 
 [구현 명세서](implementation-spec.md) · [프로젝트 출범 계획서](project-kickoff.md) · [문서 목록과 개정 이력](README.md) · [개발 로드맵](development-roadmap.md)
 

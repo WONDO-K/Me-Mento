@@ -1,6 +1,6 @@
 # Me-mento 구현 명세서
 
-문서 v1.1 · 2026-11-26 · 제품 V0~V1 구현 계약
+현재 작업본 · 제품 V0~V1 구현 계약
 
 [제품 기획서](product-plan.md) · [프로젝트 출범 계획서](project-kickoff.md) · [개발 로드맵](development-roadmap.md) · [문서 목록과 개정 이력](README.md)
 

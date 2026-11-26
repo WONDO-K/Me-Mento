@@ -1,6 +1,6 @@
 # Me-mento UX 스토리보드
 
-문서 v1.1 · 2026-11-26 · 제품 V0 편집기 검증과 V1 사용자 흐름
+현재 작업본 · 제품 V0 편집기 검증과 V1 사용자 흐름
 
 [제품 기획서](product-plan.md) · [구현 명세서](implementation-spec.md) · [출범 계획서](project-kickoff.md) · [개발 로드맵](development-roadmap.md) · [문서 목록과 개정 이력](README.md)
 
