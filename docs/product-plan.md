@@ -2,7 +2,7 @@
 
 초판 · 2026-11-24 · iPad 첫 배포 및 정보처리기사 공유 파일럿
 
-[구현 명세서](implementation-spec.md) · [프로젝트 출범 계획서](project-kickoff.md) · [대화에서 확정한 통합 명세](superpowers/specs/2026-11-24-me-mento-product-design.md)
+[구현 명세서](implementation-spec.md) · [프로젝트 출범 계획서](project-kickoff.md) · [대화에서 확정한 통합 명세](superpowers/specs/2026-11-24-me-mento-product-design.md) · [개발 로드맵](development-roadmap.md)
 
 ## 1. 제품 제안
 

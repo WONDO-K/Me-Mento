@@ -2,7 +2,7 @@
 
 초판 · 2026-11-24 · 착수 준비 및 첫 배포 판정 기준
 
-[제품 기획서](product-plan.md) · [구현 명세서](implementation-spec.md) · [기존 통합 명세](superpowers/specs/2026-11-24-me-mento-product-design.md)
+[제품 기획서](product-plan.md) · [구현 명세서](implementation-spec.md) · [기존 통합 명세](superpowers/specs/2026-11-24-me-mento-product-design.md) · [개발 로드맵](development-roadmap.md)
 
 ## 1. 출범 목표와 책임
 
